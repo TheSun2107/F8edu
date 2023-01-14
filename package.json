@@ -1,0 +1,22 @@
+{
+  "name": "f8edu",
+  "version": "1.0.0",
+  "description": "f8education",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheSun2107/F8edu.git"
+  },
+  "author": "Dulian",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TheSun2107/F8edu/issues"
+  },
+  "homepage": "https://github.com/TheSun2107/F8edu#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
